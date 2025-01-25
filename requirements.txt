@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+Flask-Swagger==0.2.0
+Flask-Swagger-UI==3.61.0
+python-dotenv>=1.0.0
+
