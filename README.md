@@ -130,7 +130,7 @@ To access Swagger UI:
 ├── routes/                # All route files (e.g., booking_routes.py)
 ├── doc/swagger_docs.py    # Swagger documentation configuration
 ├── router.py              # Route initialization
-├── final_route.py         # Main application file
+├── app.py         # Main application file
 ├── static/                # Static files (including Swagger JSON)
 └── requirements.txt       # Python dependencies
 ```
